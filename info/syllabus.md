@@ -8,10 +8,10 @@
 
 **Prerequisites**: 
 
-* C- or better in Algorithms 
-* C- or better in CSCI 2820 (or equivalent)
-* C- or better in CSCI 3022 (or equivalent)
-* ability (or willingness to learn) to program in Python 3 
+* C- or better in APPM 3310 or CSCI 2820 or MATH 2130 or 2135 or 3130 or 3135
+* C- or better in APPM 3570 or 4570 or CHEN 3010 or CSCI 3022 or CVEN 3227 or ECEN 3810 or ECON 3818 or MATH 3510 or 4510 or MCEN 3047 or STAT 3100 or 4000 or 4520
+* C- or better in CSCI 3104
+* Ability (or willingness to learn) to program in Python 3 
 
 ### Course Description 
 
@@ -30,16 +30,17 @@ The main textbook for the course will be [A Course in Machine Learning](http://c
 
 All information about this course will be hosted on the github repo: [https://github.com/akkikiki/CSCI-4622-Machine-Learning-sp21](https://github.com/akkikiki/CSCI-4622-Machine-Learning-sp21).
 
-All discussions will happen on Piazza: TBA.
+All discussions will happen on Piazza: [https://piazza.com/class/kjwy1mjifop501](https://piazza.com/class/kjwy1mjifop501).
+
 The system is highly catered to getting you help fast and efficiently from classmates, the grader, and the instructor. **Rather than emailing me questions, I request that you to post your questions on Piazza**.  If your question is of a private nature, Piazza allows you to send me a private message. It is your responsibility to check the web page on a regular basis. Here you will find detailed information such as news, homework assignments and solutions, and instructor office hours. 
 
 ### Computing
 
 A major component of this course is to learn modern, practical computing skills for machine learning.  Our two main tools will be Python 3 and Jupyter Notebooks.  It is estimated that around 50% of practicing data scientists do most of their analysis using Python (while the other roughly 50% use R, which we shall not speak of).  The Jupyter Notebook is a browser-based programming environment that allows you to seamlessly mix Python code (as well as many other languages), graphics, and exposition (in Markdown).  The Jupyter Notebook has become ubiquitous in the data science community for rapidly prototyping ideas and sharing them with colleagues and the rest of the world. 
 
-It is strongly recommended that you install Python 3 and Jupyter on your local machine. By far, the easiest way to do this is by installing the [Anaconda](https://www.continuum.io/downloads) distribution of Python 3.6.  This distribution comes with many Python packages useful for data science and scientific computation in general. It also comes with Jupyter by default.
+It is strongly recommended that you install Python 3 and Jupyter on your local machine.
 
-Frequently in class we will explore computational problems directly in Jupyter notebooks.  It is highly recommended that you bring a laptop with you to class, however it's perfectly acceptable that you team up with a classmate on a single computer. 
+Frequently in class we will explore computational problems directly in Jupyter notebooks. It is highly recommended that you bring a laptop with you to class. 
 
 ### Coursework 
 
