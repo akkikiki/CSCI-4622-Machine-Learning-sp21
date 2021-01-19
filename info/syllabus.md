@@ -1,4 +1,4 @@
-## CSCI 4622 (Fall 2020): Syllabus
+## CSCI 4622 (Spring 2021): Syllabus
 
 ### Course Information 
 
@@ -123,7 +123,7 @@ prevents you from fulfilling these safety measures, please see the “Accommodat
 
 Before returning to campus, all students must complete the COVID-19 Student Health and Expectations Course. Before coming on to campus each day, all students are required to complete a Daily Health Form. In this class, you may be reminded of the responsibility to complete the Daily Health Form and given time during class to complete it.
 
-Students who have tested positive for COVID-19, have symptoms of COVID-19, or have had close contact with someone who has tested positive for or had symptoms of COVID-19 must stay home and complete the Health Questionnaire and Illness Reporting Form remotely. In this class, if you are sick or quarantined, please email me at chenhao.tan@colorado.edu to let me know that "you are absent due to illness or quarantine".
+Students who have tested positive for COVID-19, have symptoms of COVID-19, or have had close contact with someone who has tested positive for or had symptoms of COVID-19 must stay home and complete the Health Questionnaire and Illness Reporting Form remotely. In this class, if you are sick or quarantined, please email me at Yoshinari.Fujinuma@colorado.edu to let me know that "you are absent due to illness or quarantine".
 
 
 
