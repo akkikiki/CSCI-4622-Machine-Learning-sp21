@@ -5,7 +5,7 @@
 ### Course Staff
 
 Instructor: Yoshinari Fujinuma [\[contact\]](mailto:Yoshinari.Fujinuma@colorado.edu)   
-Office hours: Zoom, TBA for days and time
+Office Hours: Thursdays 4pm - 5pm, Fridays 4pm - 5pm on Zoom (remote)
 
 TA: Saumya Sinha [\[contact\]](mailto:Saumya.Sinha@colorado.edu)    
 Office hours: TBA
