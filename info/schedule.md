@@ -18,14 +18,14 @@ info/schedule.md
 | | 1/27 | Chapter 3 | K-Nearest Neighbors  |  | |
 | 3 | 1/29 | Chapter 4 | Perceptron |  | |
 | | 2/1 |  | Hands on decision KNN and perceptron |  |  |
-| | 2/3 | Chapter 5 | Feature Engineering |   | HW1 due |
-| 4 | 2/5 | Chapter 9 & Chapter 7 | Logistic regression|  | |
+| | 2/3 | Chapter 5 | Feature Engineering |   | |
+| 4 | 2/5 | Chapter 9 & Chapter 7 | Logistic regression|  | HW1 due |
 | | 2/8 | Chapter 7 | Stochastic gradient part 1 |  |
 | | 2/10 | Chapter 14  | Stochastic gradient part 2  |  | |
 | 5 | 2/12 | Chapter 5 | Validation  | | |
 | | 2/15 | | Wellness day (no class) |  | |
-| | 2/17 |Chapter 5 | Evaluation metrics  |  | HW2 due |
-| | 2/19 |Chapter 6 |Multiclass classification|  |  |
+| | 2/17 |Chapter 5 | Evaluation metrics  |  ||
+| | 2/19 |Chapter 6 |Multiclass classification|  | HW2 due   |
 | 6 | 2/22 | |   Hands on validation and evaluation metrics |  | |
 | | 2/24 |  | Quiz 1 (week 1, 2, 3, 4) |  | |
 | | 2/26 | Chapter 10 | Neural Nets and MLP 	 |  |  |
@@ -33,20 +33,20 @@ info/schedule.md
 | | 3/3 | Chapter 10 | Back Propagation Part 1 |  | |
 | | 3/5 | Chapter 10 | Back Propagation Part 2 |   | |
 | 8 | 3/8 | | Hands on Neural nets	 |  | |
-| | 3/10 | Chapter 7  | Hard-Margin SVM | | HW3  due |
-| | 3/12 | | Soft-Margin SVM Part 1 |  |  |
+| | 3/10 | Chapter 7  | Hard-Margin SVM | | |
+| | 3/12 | | Soft-Margin SVM Part 1 |  |  HW3  due |
 | 9 | 3/15 | [Additional reading](https://cs.stanford.edu/people/davidknowles/lagrangian_duality.pdf) | Soft-Margin SVM Part 2 |  | |
-| | 3/17 | Chapter 11 | Kernel trick | | Final project proposal due |
-| | 3/19 |  | Hands on SVM | | |
+| | 3/17 | Chapter 11 | Kernel trick | | |
+| | 3/19 |  | Hands on SVM | |  Final project proposal due |
 | 10 | 3/22 | Chapter 12 | Bagging and Random Forests   |   | |
-| | 3/24 | | Boosted Decision Trees	| | HW4 due |
-| | 3/26 | | Hands-On AdaBoost | | |
+| | 3/24 | | Boosted Decision Trees	| | |
+| | 3/26 | | Hands-On AdaBoost | | HW4 due |
 | 11 | 3/29 | Chapter 15| Unsupervised learning | | |
 | | 3/31 |  |  Dimensionality reduction, PCA/SVD  |    | |
 | | 4/2 | | Quiz 2 (Week 5, 6, 7, 8)  | |  |
 | 12 | 4/5 | |  Clustering | | |
-| | 4/7 | Chapter 16 | Expectation-minimization algorithms |   | HW5 due |
-| | 4/9 | | Topic models |  ||
+| | 4/7 | Chapter 16 | Expectation-minimization algorithms |   | |
+| | 4/9 | | Topic models |  | HW5 due|
 | 13 | 4/12 | Chapter 12 | Learning theory I | | |
 | | 4/14 | | Learning theory II | | |
 | | 4/16 | Chapter 8 | Ethics and Machine Learning  |    | Final project midpoint check-in |
