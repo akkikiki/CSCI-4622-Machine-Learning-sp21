@@ -8,7 +8,7 @@ Instructor: Yoshinari Fujinuma [\[contact\]](mailto:Yoshinari.Fujinuma@colorado.
 Office Hours: Thursdays 4pm - 5pm, Fridays 4pm - 5pm on Zoom (remote)
 
 TA: Saumya Sinha [\[contact\]](mailto:Saumya.Sinha@colorado.edu)    
-Office hours: TBA
+Office hours: Wednesdays 4pm - 5pm, Fridays 11.30am - 12.30pm on Zoom (remote)
 
 GSS: Vignesh Karthikeyan [\[contact\]](mailto:Vignesh.Karthikeyan@colorado.edu)  
 Office hours: TBA
