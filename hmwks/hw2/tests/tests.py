@@ -23,7 +23,7 @@ class TestPerceptron(unittest.TestCase):
         self.assertAlmostEqual(perc.w[1], 0.0)
         self.assertAlmostEqual(perc.b, 0.0)
 
-        # Check w, b after one epoch 
+        # Check w, b after training 
         perc.train()
         self.assertAlmostEqual(perc.w[0], 0.5)
         self.assertAlmostEqual(perc.w[1], 1.0)
@@ -42,7 +42,7 @@ class TestPerceptron(unittest.TestCase):
         self.assertAlmostEqual(perc.w[1], 0.0)
         self.assertAlmostEqual(perc.b, 0.0)
 
-        # Check w, b after one epoch 
+        # Check w, b after training 
         perc.train()
         self.assertAlmostEqual(perc.w[0], 0.5)
         self.assertAlmostEqual(perc.w[1], -1.0)
