@@ -23,8 +23,8 @@ info/schedule.md
 | | 2/8 | Chapter 7 | Stochastic gradient part 1 |  |
 | | 2/10 | Chapter 14  | Stochastic gradient part 2  |  | |
 | 5 | 2/12 | Chapter 5 | Validation  | | |
-| | 2/15 | | Wellness day (no class) |  | |
-| | 2/17 |Chapter 5 | Evaluation metrics  |  ||
+| | 2/15 |Chapter 5 | Evaluation metrics  |  ||
+| | 2/17 | | Wellness day (no class) |  | |
 | | 2/19 |Chapter 6 |Multiclass classification|  | HW2 due   |
 | 6 | 2/22 | |   Hands on validation and evaluation metrics |  | |
 | | 2/24 |  | Quiz 1 (week 1, 2, 3, 4) |  | |
