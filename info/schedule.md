@@ -34,8 +34,8 @@ info/schedule.md
 | | 3/5 | Chapter 10 | Back Propagation Part 2 |   | |
 | 8 | 3/8 | | Hands on Neural nets	 |  | |
 | | 3/10 | Chapter 7  | Hard-Margin SVM | | |
-| | 3/12 | | Soft-Margin SVM Part 1 |  |  HW3  due |
-| 9 | 3/15 | [Additional reading](https://cs.stanford.edu/people/davidknowles/lagrangian_duality.pdf) | Soft-Margin SVM Part 2 |  | |
+| | 3/12 | | Soft-Margin SVM Part 1 |  |  |
+| 9 | 3/15 | [Additional reading](https://cs.stanford.edu/people/davidknowles/lagrangian_duality.pdf) | Soft-Margin SVM Part 2 |  | HW3 due |
 | | 3/17 | Chapter 11 | Kernel trick | | |
 | | 3/19 |  | Hands on SVM | |  Final project proposal due |
 | 10 | 3/22 | Chapter 12 | Bagging and Random Forests   |   | |
