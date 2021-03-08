@@ -47,14 +47,14 @@ info/schedule.md
 | 12 | 4/5 | |  Clustering | | |
 | | 4/7 | Chapter 16 | Expectation-minimization algorithms |   | |
 | | 4/9 | | Topic models |  | HW5 due|
-| 13 | 4/12 | Chapter 12 | Learning theory I | | |
-| | 4/14 | | Learning theory II | | |
-| | 4/16 | Chapter 8 | Ethics and Machine Learning  |    | Final project midpoint check-in |
-| 14 | 4/19 |  |  Review | | |
-| | 4/21 | | Special Activity (TBA) | | |
-| 15 | 4/23 |  |  Quiz 3 (Week 9, 10, 11, 12) | |
-| | 4/26 | | Office hours for the final project |  | |
-| | 4/28 | | Office hours for the final project | | |
-| | 4/30 |  | | |  Final project presentation due|
-| 16 | 5/1 |  | | |  Final project report due|
+| 13 | 4/12 | Final project midpoint presentations| | | |
+| | 4/14 |  | Final project midpoint presentations| | |
+| | 4/16 |  | Final project midpoint presentations| | |
+| 14 | 4/19 | Final project midpoint presentations| | | |
+| | 4/21    |Chapter 12 | Learning theory I | | |
+| 15 | 4/23 |           | Learning theory II| |
+|    | 4/26 |           | Quiz 3 (Week 9, 10, 11, 12) |  | |
+|    | 4/28 | Chapter 8 | Ethics and Machine Learning | | |
+|    | 4/30 |           | | |  |
+| 16 | 5/1  |           | | |  Final project report due|
 
