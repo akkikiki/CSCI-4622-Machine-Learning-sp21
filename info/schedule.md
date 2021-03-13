@@ -47,10 +47,10 @@ info/schedule.md
 | 12 | 4/5 | |  Clustering | | |
 | | 4/7 | Chapter 16 | Expectation-minimization algorithms |   | |
 | | 4/9 | | Topic models |  ||
-| 13 | 4/12 | Final project midpoint presentations| | | HW5 due|
-| | 4/14 |  | Final project midpoint presentations| | |
-| | 4/16 |  | Final project midpoint presentations| | |
-| 14 | 4/19 | Final project midpoint presentations| | | |
+| 13 | 4/12 |  | Final project midpoint presentations| | | HW5 due|
+| | 4/14    |  | Final project midpoint presentations| | |
+| | 4/16    |  | Final project midpoint presentations| | |
+| 14 | 4/19 |  | Final project midpoint presentations| | | |
 | | 4/21    |Chapter 12 | Learning theory I | | |
 | 15 | 4/23 |           | Learning theory II| |
 |    | 4/26 |           | Quiz 3 (Week 9, 10, 11, 12) |  | |
