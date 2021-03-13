@@ -40,14 +40,14 @@ info/schedule.md
 | | 3/19 |  | Hands on SVM | |  Final project proposal due |
 | 10 | 3/22 | Chapter 12 | Bagging and Random Forests   |   | |
 | | 3/24 | | Boosted Decision Trees	| | |
-| | 3/26 | | Hands-On AdaBoost | | HW4 due |
-| 11 | 3/29 | Chapter 15| Unsupervised learning | | |
+| | 3/26 | | Hands-On AdaBoost | | |
+| 11 | 3/29 | Chapter 15| Unsupervised learning | | HW4 due  |
 | | 3/31 |  |  Dimensionality reduction, PCA/SVD  |    | |
 | | 4/2 | | Quiz 2 (Week 5, 6, 7, 8)  | |  |
 | 12 | 4/5 | |  Clustering | | |
 | | 4/7 | Chapter 16 | Expectation-minimization algorithms |   | |
-| | 4/9 | | Topic models |  | HW5 due|
-| 13 | 4/12 | Final project midpoint presentations| | | |
+| | 4/9 | | Topic models |  ||
+| 13 | 4/12 | Final project midpoint presentations| | | HW5 due|
 | | 4/14 |  | Final project midpoint presentations| | |
 | | 4/16 |  | Final project midpoint presentations| | |
 | 14 | 4/19 | Final project midpoint presentations| | | |
