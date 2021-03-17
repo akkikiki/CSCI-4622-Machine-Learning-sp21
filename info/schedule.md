@@ -34,27 +34,27 @@ info/schedule.md
 | | 3/5 | Chapter 10 | Back Propagation Part 2 |   | |
 | 8 | 3/8 | | Hands on Neural nets	 |  | |
 | | 3/10 | Chapter 7  | Hard-Margin SVM | | |
-| | 3/12 | | Soft-Margin SVM Part 1 |  |  |
-| 9 | 3/15 | [Additional reading](https://cs.stanford.edu/people/davidknowles/lagrangian_duality.pdf) | Soft-Margin SVM Part 2 |  | HW3 due |
-| | 3/17 | Chapter 11 | Kernel trick | | |
-| | 3/19 |  | Hands on SVM | |  Final project proposal due |
-| 10 | 3/22 | Chapter 12 | Bagging and Random Forests   |   | |
+| | 3/12 | | Soft-Margin SVM |  |  |
+| 9 | 3/15 | [Additional reading](https://cs.stanford.edu/people/davidknowles/lagrangian_duality.pdf) | Snow day |  | |
+| | 3/17 | Chapter 11 | Kernel trick | | HW3 due |
+| | 3/19 |  | Hands on SVM | |  |
+| 10 | 3/22 | Chapter 12 | Bagging and Random Forests   |   | Final project proposal due |
 | | 3/24 | | Boosted Decision Trees	| | |
-| | 3/26 | | Hands-On AdaBoost | | HW4 due |
-| 11 | 3/29 | Chapter 15| Unsupervised learning | | |
-| | 3/31 |  |  Dimensionality reduction, PCA/SVD  |    | |
+| | 3/26 | | Hands-On AdaBoost | | |
+| 11 | 3/29 | Chapter 15| Unsupervised learning | |   |
+| | 3/31 |  |  Dimensionality reduction, PCA/SVD  |    | HW4 due|
 | | 4/2 | | Quiz 2 (Week 5, 6, 7, 8)  | |  |
 | 12 | 4/5 | |  Clustering | | |
 | | 4/7 | Chapter 16 | Expectation-minimization algorithms |   | |
-| | 4/9 | | Topic models |  | HW5 due|
-| 13 | 4/12 | Chapter 12 | Learning theory I | | |
-| | 4/14 | | Learning theory II | | |
-| | 4/16 | Chapter 8 | Ethics and Machine Learning  |    | Final project midpoint check-in |
-| 14 | 4/19 |  |  Review | | |
-| | 4/21 | | Special Activity (TBA) | | |
-| 15 | 4/23 |  |  Quiz 3 (Week 9, 10, 11, 12) | |
-| | 4/26 | | Office hours for the final project |  | |
-| | 4/28 | | Office hours for the final project | | |
-| | 4/30 |  | | |  Final project presentation due|
-| 16 | 5/1 |  | | |  Final project report due|
+| | 4/9 | | Topic models |  ||
+| 13 | 4/12 |  | Final project midpoint presentations| | | |
+| | 4/14    |  | Final project midpoint presentations| | |
+| | 4/16    |  | Final project midpoint presentations| | HW5 due |
+| 14 | 4/19 |  | Final project midpoint presentations| | | |
+| | 4/21    |Chapter 12 | Learning theory I | | |
+| 15 | 4/23 |           | Learning theory II| |
+|    | 4/26 |           | Quiz 3 (Week 9, 10, 11, 12) |  | |
+|    | 4/28 | Chapter 8 | Ethics and Machine Learning | | |
+|    | 4/30 |           | | |  |
+| 16 | 5/1  |           | | |  Final project report due|
 
