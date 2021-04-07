@@ -2,7 +2,7 @@
 
 ### Course Information 
 
-**Class Meeting Time**: MWF 10:30-11:10am on Zoom (remote)
+**Class Meeting Time**: MWF 10:10-11:10am on Zoom (remote)
 
 **Office Hours**: Thursdays 4pm - 5pm, Fridays 4pm - 5pm on Zoom (remote)
 
