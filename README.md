@@ -21,9 +21,9 @@ All Zoom links are available on Canvas.
 * [Syllabus](https://github.com/akkikiki/CSCI-4622-Machine-Learning-sp21/blob/main/info/syllabus.md)
 * [Piazza](https://piazza.com/class/kjwy1mjifop501)
 * [Canvas](https://canvas.colorado.edu/courses/71729)
-* Schedule and Slide: TBA
+* Schedule and Slide: https://github.com/akkikiki/CSCI-4622-Machine-Learning-sp21/blob/main/info/schedule.md
 * Textbook: [A Course in Machine Learning](http://ciml.info/)
-* Lecture videos: TBA
+* Lecture videos: Tuesdays 10am - 12pm
 
 
 ### Requirements for COVID-19
