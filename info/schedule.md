@@ -52,7 +52,7 @@ info/schedule.md
 | | 4/16    |  | Final project midpoint presentations| | HW5 due|
 | 14 | 4/19 |  | Final project midpoint presentations| | | |
 | | 4/21    |Chapter 12 | Learning theory I | | |
-| 15 | 4/23 |           | Learning theory II| |
+| 15 | 4/23 |           | Practice quiz session for Quiz 3| |
 |    | 4/26 |           | Quiz 3 (Week 9, 10, 11, 12) |  | |
 |    | 4/28 | Chapter 8 | Ethics and Machine Learning | | |
 |    | 4/30 |           | no class| |  |
