@@ -42,7 +42,7 @@ info/schedule.md
 | | 3/24 | | Boosted Decision Trees	| | |
 | | 3/26 | | Hands-On AdaBoost | | |
 | 11 | 3/29 | Chapter 15| Unsupervised learning | |   |
-| | 3/31 |  |  Dimensionality reduction, PCA/SVD  |    | HW4 due|
+| | 3/31 |  |  Dimensionality reduction, PCA  |    | HW4 due|
 | | 4/2 | | Review/Practice for Quiz 2   | |  |
 | 12 | 4/5 | | Quiz 2 (Week 5, 6, 7, 8) | | |
 | | 4/7 | | Convolutional Neural Network (Lecture by Saumya) |   | |
